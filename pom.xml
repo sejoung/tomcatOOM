@@ -17,10 +17,7 @@
     <url>https://github.com/sejoung</url>
     <properties>
         <java.version>11</java.version>
-        <lombok.version>1.18.6</lombok.version>
-        <springfox-version>2.9.2</springfox-version>
-        <swagger-core-version>1.5.15</swagger-core-version>
-        <mybatis.version>1.3.2</mybatis.version>
+        <lombok.version>1.18.8</lombok.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
@@ -49,7 +46,7 @@
 
     </dependencies>
     <build>
-        <finalName>vuejs</finalName>
+        <finalName>tomcatOOM</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
